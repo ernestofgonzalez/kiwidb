@@ -1,5 +1,7 @@
 # kiwidb
 
+[![PyPI](https://img.shields.io/pypi/v/kiwidb.svg)](https://pypi.org/project/kiwidb/)
+
 `kiwidb` is a small, in-memory key-value database written in pure Python. It started as a way to experiment with in-memory key-value storage, inspired by the guide from [Building a Simple Redis Server with Python](https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/). It is designed for learning and experimentation.
 
 ## Some feature highlights
@@ -11,11 +13,8 @@
 
 ### Installation
 
-Clone the repository:
-
 ```bash
-git clone https://github.com/ernestofgonzalez/kiwidb.git
-cd kiwidb
+pip install kiwidb
 ```
 
 ### Using as a library
