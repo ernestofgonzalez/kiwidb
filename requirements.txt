@@ -1,1 +1,4 @@
-gevent==25.4.1
+-r requirements/requirements-docs.txt
+-r requirements/requirements-linting.txt
+-r requirements/requirements-testing.txt
+-r requirements/requirements.txt
